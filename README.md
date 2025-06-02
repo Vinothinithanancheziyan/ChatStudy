@@ -138,6 +138,14 @@ if __name__ == '__main__':
 ```
 
 ## Output:
+Client 
+
+![Image](https://github.com/user-attachments/assets/fe50fdcf-ba27-4562-a887-873d0441b487)
+
+Server
+
+![Image](https://github.com/user-attachments/assets/bf305da4-3e66-4cdd-9fcf-3c9e0975bccc)
+
 
 ## Result:
 
